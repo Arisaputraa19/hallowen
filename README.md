@@ -9,9 +9,6 @@
 ![Swiper](https://img.shields.io/badge/swiper%20js-4287F5?style=for-the-badge&logo=swiper&logoColor=white)&nbsp;
 ![Figma](https://img.shields.io/badge/figma-6E12C4.svg?style=for-the-badge&logo=figma&logoColor=white)&nbsp;
 
-### Link
-
-- [Codepen](https://codepen.io/ecemgo/pen/ZEwYqMQ)
 
 ### Screenshot
 
@@ -26,10 +23,3 @@
 ### License
 
 ##### This project is licensed under the Creative Commons Attribution-NonCommercial 4.0 International License. You may use, share, and adapt this work for non-commercial purposes, provided you give appropriate credit. For more details, visit [Creative Commons Attribution-NonCommercial 4.0 International License](https://creativecommons.org/licenses/by-nc/4.0/).
-
-### Contact Me
-
-- Github - [@ecemgo](https://github.com/ecemgo)
-- Twitter - [@ecemgo](https://twitter.com/ecemgo)
-- CodePen - [@ecemgo](https://codepen.io/ecemgo)
-- YouTube - [@ecemgokdogan](https://www.youtube.com/channel/UCktkPv17cw27PaFGcnZa_aQ)
